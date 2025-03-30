@@ -1,0 +1,14 @@
+{
+  "ServiceDescriptors": [
+    {
+      "ServiceType": "FormComponents.Components.Paginations.Presenters.IPaginationPresenter",
+      "ImplementationType": "FormComponents.Components.Paginations.Presenters.PaginationPresenter",
+      "LifeTime": "Transient"
+    },
+    {
+      "ServiceType": "FormComponents.Components.PictureBox.Views.AItemBoxView`2",
+      "ImplementationType": "FormComponents.Components.PictureBox.Views.ItemBoxView`2",
+      "LifeTime": "Transient"
+    }
+  ]
+} 
